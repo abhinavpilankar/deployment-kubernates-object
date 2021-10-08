@@ -1,0 +1,1 @@
+# deployment-kubernates-object
